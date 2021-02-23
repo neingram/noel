@@ -1,18 +1,15 @@
 nav:
-  - title: "Services"
+  - title: "About Noël"
     section: services
-
-  - title: "Portfolio"
-    section: portfolio
     
-  - title: "About"
+  - title: "Recent Work"
     section: timeline
 
-  - title: "Team"
-    section: team
+  - title: "Teaching"
+    section: portfolio
 
   - title: "Contact"
     section: contact
 
-  - title: "Theme Source"
-    url: https://github.com/raviriley/agency-jekyll-theme/
+  - title: "C.V."
+    url: https://docs.google.com/document/d/1o2CSp9sDQKCJrKWqxQy3oIP5eWNMUdIsUzPu-Retj4U/edit
