@@ -1,12 +1,12 @@
 ---
 title: Certifications
-subtitle: & Credentials
+subtitle: and Credentials
 image: assets/img/portfolio/chuttersnap-kddhfgs7gjo-unsplash.jpeg
 alt: A library shelf 
 
 caption:
   title: Certifications
-  subtitle: & Credentials
+  subtitle: and Credentials
   thumbnail: assets/img/portfolio/chuttersnap-kddhfgs7gjo-unsplash.jpeg
 ---
 I hold the following certifications and credentials:
