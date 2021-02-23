@@ -1,6 +1,6 @@
 ---
 title: Curriculum
-subtitle: & Instructional Design
+subtitle: and Instructional Design
 image: assets/img/portfolio/joanna-kosinska-1_cmofspfso-unsplash-1.jpg
 alt: pencil on yellow background 
 
