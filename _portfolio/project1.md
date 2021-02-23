@@ -1,7 +1,7 @@
 ---
 title: Curriculum
 subtitle: & Instructional Design
-image: assets/img/portfolio/joanna-kosinska-1_cmofspfso-unsplash-1.jpg
+image: /assets/img/portfolio/joanna-kosinska-1_cmofspfso-unsplash-1.jpg
 alt: pencil on yellow background 
 
 caption:
