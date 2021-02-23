@@ -1,18 +1,23 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+title: Certifications
+subtitle: & Credentials
+image: assets/img/portfolio/chuttersnap-kddhfgs7gjo-unsplash.jpeg
+alt: A library shelf 
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  title: Certifications
+  subtitle: & Credentials
+  thumbnail: assets/img/portfolio/chuttersnap-kddhfgs7gjo-unsplash.jpeg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+I hold the following certifications and credentials:
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- **English**: Clear Single-Subject CA Credential
+- **Art**: Clear Single-Subject CA Credential
+- **CTE**: Clear CA Career & Technical Education: Marketing, Sales, & Service 
+- **Certified Journalism Educator**
+- **TBRI**: Trust-Based Relational Intervention
+- **The Ojai Foundation**: Council for Educators
+- **Safe Zone**: LGBTQIA Training
+- **Project-Based Learning**
 
