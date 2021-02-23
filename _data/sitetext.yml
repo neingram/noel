@@ -5,7 +5,6 @@ services:
   
 timeline:
     title: "Recent Work" 
-    text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
     #start_align: "left"
