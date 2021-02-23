@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Courses
   subtitle: I've Taught
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets/img/portfolio/keila-hotzel-lfmuwu0tv4m-unsplash.jpeg
   
 #what displays when the item is clicked:
 title: Courses
 subtitle: I've Designed & Taught 
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/keila-hotzel-lfmuwu0tv4m-unsplash.jpeg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
