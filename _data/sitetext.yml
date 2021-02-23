@@ -1,26 +1,10 @@
-header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
 
 services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-
+    title: "About Noël"
+    text: "I’m a researcher, writer, and educator originally from Sacramento, CA. I’m currently pursuing a PhD at Boston College in English, where I explore twentieth- and twenty-first American literature and culture, feminist and gender theory, disability studies, and medical and health humanities. Prior to my doctoral work, I taught extensively at the secondary level in the Los Angeles area, designing interdisciplinary, project-based curricula for a variety of humanities courses. I hold a MA in American Studies from  Pepperdine University and a BA in psychology with a minor in English from the University of California at Davis. I received my teaching certification from Loyola Marymount University through the LMU | Teach For America Partnership and hold clear CA teaching credentials in English, art, and Career and Technical Education with an emphasis on Marketing, Sales, and Service."
+  
 timeline:
-    title: "About" 
+    title: "Recent Work" 
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
@@ -51,8 +35,8 @@ timeline:
     end: "Be Part <br> of Our <br> Story!"
     
 portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Teaching"
+    text: "In my seven years as a secondary educator, I’ve worked exclusively with high-need populations; every teaching position I’ve held has been at a Title 1 school, meaning that the school served a high concentration of families with low socioeconomic status. I’m well-versed in teaching strategies and methodology for students with diverse needs, including English Language Learners and students with disabilities. I love collaboration and interdisciplinary course design."
     section: portfolio
     closebutton: "Close Project"
     
